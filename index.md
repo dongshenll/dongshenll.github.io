@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## 欢迎来到我玩的主页
 
 You can use the [editor on GitHub](https://github.com/dongshenll/dongshenll.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+整个主页只是一个模板
 
 ### Markdown
 
